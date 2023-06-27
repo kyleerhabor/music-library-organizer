@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		00DE79D82A4A542C0060DEE3 /* MusicLibraryOrganizer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MusicLibraryOrganizer; sourceTree = BUILT_PRODUCTS_DIR; };
 		00DE79DB2A4A542C0060DEE3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		00DE79E22A4A62C20060DEE3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		00DE79E32A4A6C8D0060DEE3 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,8 @@
 		00DE79CF2A4A542C0060DEE3 = {
 			isa = PBXGroup;
 			children = (
+				00DE79E22A4A62C20060DEE3 /* README.md */,
+				00DE79E32A4A6C8D0060DEE3 /* LICENSE */,
 				00DE79DA2A4A542C0060DEE3 /* MusicLibraryOrganizer */,
 				00DE79D92A4A542C0060DEE3 /* Products */,
 			);
